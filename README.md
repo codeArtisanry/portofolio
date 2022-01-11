@@ -1,4 +1,6 @@
 # portofolio
 This is my portofolio
 
-@https://stark-dawn-44905.herokuapp.com/
+### live demo: https://stark-dawn-44905.herokuapp.com/
+![preview]()
+
